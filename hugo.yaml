@@ -104,6 +104,12 @@ params:
     - name: X
       title: Dark place
       url: x.com/mrtincss
+    - name: Medium
+      title: Medium
+      url: "https://medium.com/@therealm4rtin"
+    - name: Mail
+      title: Mail
+      url: "mailto:martincss@ik.me"
 
 outputs:
   home:
