@@ -2,6 +2,7 @@ baseURL: "https://therealm4rtin.github.io/blog/"
 title: TheRealMartin Blog
 paginate: 5
 theme: "PaperMod"
+# theme: "Ananke"
 enableEmoji: true
 
 
