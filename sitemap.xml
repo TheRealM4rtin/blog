@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://therealm4rtin.github.io/blog/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://therealm4rtin.github.io/blog/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://therealm4rtin.github.io/blog/tags/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/posts/finland/post-finland/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/categories/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/tags/finland/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/tags/landscape/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/tags/llm/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/tags/paper/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/posts/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/categories/research/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/tags/state-of-the-art/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/categories/trip/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/about/</loc>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/archives/</loc>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/search/</loc>
+  </url><url>
+    <loc>https://therealm4rtin.github.io/blog/series/</loc>
+  </url>
+</urlset>

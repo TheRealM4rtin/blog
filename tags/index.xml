@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TheRealMartin Blog</title>
+    <title>TheRealMartin&#39;s Blog</title>
     <link>https://therealm4rtin.github.io/blog/tags/</link>
-    <description>Recent content on TheRealMartin Blog</description>
+    <description>Recent content on TheRealMartin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://therealm4rtin.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>finland</title>
+      <link>https://therealm4rtin.github.io/blog/tags/finland/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/tags/finland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>landscape</title>
+      <link>https://therealm4rtin.github.io/blog/tags/landscape/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/tags/landscape/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://therealm4rtin.github.io/blog/tags/llm/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>paper</title>
+      <link>https://therealm4rtin.github.io/blog/tags/paper/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/tags/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>state-of-the-art</title>
+      <link>https://therealm4rtin.github.io/blog/tags/state-of-the-art/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/tags/state-of-the-art/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

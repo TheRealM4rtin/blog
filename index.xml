@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TheRealMartin Blog</title>
+    <title>TheRealMartin&#39;s Blog</title>
     <link>https://therealm4rtin.github.io/blog/</link>
-    <description>Recent content on TheRealMartin Blog</description>
+    <description>Recent content on TheRealMartin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://therealm4rtin.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A trip to Finland</title>
+      <link>https://therealm4rtin.github.io/blog/posts/finland/post-finland/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/posts/finland/post-finland/</guid>
+      <description>A trip to Finland
+Not ready Test dfssdf
+[ ]</description>
+    </item>
+    <item>
+      <title>Literature Overview</title>
+      <link>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</guid>
+      <description>Literature Overview of LLM Compression This is the literature overview of the state-of-the-art LLMs Compression techniques. More than 150 papers. Currently trying to find a way to share that.</description>
+    </item>
   </channel>
 </rss>
