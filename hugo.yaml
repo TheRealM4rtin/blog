@@ -1,5 +1,5 @@
 baseURL: "https://therealm4rtin.github.io/blog/"
-title: TheRealMartin Blog
+title: TheRealMartin's Blog
 paginate: 5
 theme: "PaperMod"
 # theme: "Ananke"
@@ -16,57 +16,67 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: About Me
-          url: about/
-  fr:
-    languageName: ":fr:"
-    weight: 2
-    title: TheRealMartin Blog
-    taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
-    menu:
-      main:
-        - name: Archive
+        - identifier: archives
+          name: Posts
           url: archives/
           weight: 5
-        - name: Search
+        - identifiers: search
+          name: Search
           url: search/
           weight: 10
-        - name: Tags
-          url: frtags/
-          weight: 10
-        # - name: FRCategories
-        #   url: frcategories
-        #   weight: 10
-        # - name: FRSeries
-        #   url: frseries
-        #   weight: 10
-        # - name: NullLink
-        #   url: "#"
+        - identifiers: tags
+          name: Tags
+          url: tags/
+          weight: 15
+        - name: About Me
+          url: about/
+  # fr:
+  #   languageName: ":fr:"
+  #   weight: 2
+  #   title: TheRealMartin Blog
+  #   taxonomies:
+  #     category: FRcategories
+  #     tag: FRtags
+  #     series: FRseries
+  #   menu:
+  #     main:
+  #       - name: Archive
+  #         url: archives/
+  #         weight: 5
+  #       - name: Search
+  #         url: search/
+  #         weight: 10
+  #       - name: Tags
+  #         url: frtags/
+  #         weight: 10
+  #       - name: À propos
+  #         url: about/
+  #       # - name: FRCategories
+  #       #   url: frcategories
+  #       #   weight: 10
+  #       # - name: FRSeries
+  #       #   url: frseries
+  #       #   weight: 10
+  #       # - name: NullLink
+  #       #   url: "#"
 
 params:
 
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  #author: "TheRealMartin"
   # author: ["Me", "You"] # multiple authors
+  
+  label:
+    #text: ''
+    icon: "images/favicon.png"
+    #iconheight: 35
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
-  # disableSpecial1stPost: true
+  #disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -74,21 +84,20 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
-  ShowToc: true
+  ShowToc: false
   # comments: false
-  #images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: true
-    title: "Martin Cousseau" # optional default will be site title
-    subtitle: "A French engineering student (in AI)"
+    title: "Martin Cousseau"
+    subtitle: "A French engineering student (don't read this blog if you want to hire me)"
     #imageUrl: "images/profile.jpg"
     #imageTitle: "HH"
     # 2944 × 2208
     # imageWidth: 140
     # imageHeight: 129
     buttons:
-          - name: Archive
+          - name: Posts
             url: "/archive"
           - name: Github
             url: "https://github.com/"
@@ -103,13 +112,16 @@ params:
       url: "https://www.linkedin.com/in/cousseaumartin/"
     - name: X
       title: Dark place
-      url: x.com/mrtincss
+      url: "https://twitter.com/mrtincss"
     - name: Medium
       title: Medium
-      url: "https://medium.com/@therealm4rtin"
-    - name: Mail
+      url: "https://medium.com/@martin.css"
+    - name: Mail  
       title: Mail
-      url: "mailto:martincss@ik.me"
+      url: "mailto:martin.css@ik.me"
+    - name: Instagram
+      title: Instagram
+      url: "https://www.instagram.com/martinspacepickle"
 
 outputs:
   home:
