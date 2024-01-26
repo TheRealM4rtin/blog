@@ -91,11 +91,11 @@ params:
     enabled: true
     title: "Martin Cousseau"
     subtitle: "A French engineering student (don't read this blog if you want to hire me)"
-    #imageUrl: "images/profile.jpg"
+    imageUrl: "images/profil.png"
     #imageTitle: "HH"
     # 2944 × 2208
-    # imageWidth: 140
-    # imageHeight: 129
+    imageWidth: 140
+    imageHeight: 129
     buttons:
           - name: Posts
             url: "/archive"
