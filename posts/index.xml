@@ -9,20 +9,13 @@
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://therealm4rtin.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A trip to Finland</title>
-      <link>https://therealm4rtin.github.io/blog/posts/finland/post-finland/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://therealm4rtin.github.io/blog/posts/finland/post-finland/</guid>
-      <description>A trip to Finland
-Not ready Test dfssdf
-[ ]</description>
-    </item>
-    <item>
-      <title>Literature Overview</title>
+      <title>LLMs Compression | Literature Overview</title>
       <link>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</guid>
-      <description>Literature Overview of LLM Compression This is the literature overview of the state-of-the-art LLMs Compression techniques. More than 150 papers. Currently trying to find a way to share that.</description>
+      <description>I&amp;rsquo;m currently working on a research project on LLMs Compression. Making these models smaller and more efficient. This includes techniques like Pruning, Quantization, and Distillation.
+Our work primarily explores three categories of LLM compression techniques: Quantization, knowledge Distillation, and Pruning. Each of these techniques offers a unique approach to reducing the size and computational demands of LLMs.
+Quantization reduces the number of bits required to represent each weight in the model, thus decreasing its overall size.</description>
     </item>
   </channel>
 </rss>
