@@ -9,13 +9,20 @@
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://therealm4rtin.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LLMs Compression | Literature Overview</title>
+      <title>LLMs Compression | Literature Overview | Our work</title>
       <link>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</guid>
-      <description>I&amp;rsquo;m currently working on a research project on LLMs Compression. Making these models smaller and more efficient. This includes techniques like Pruning, Quantization, and Distillation.
-Our work primarily explores three categories of LLM compression techniques: Quantization, knowledge Distillation, and Pruning. Each of these techniques offers a unique approach to reducing the size and computational demands of LLMs.
-Quantization reduces the number of bits required to represent each weight in the model, thus decreasing its overall size.</description>
+      <description>TL;DR I&amp;rsquo;m currently working on a research project on LLMs Compression. Making these models smaller and more efficient. This includes techniques like Pruning, Quantization, and Distillation. The paper will be published mid-2024.
+During our research, we gathered over 150 research papers related to state-of-the-art LLMs Compression methods and Optimization. I think this collection is pretty valuable. So here&amp;rsquo;s this massive pile of research for you.
+Our work In our research, we address the challenging task of compressing large language models (LLMs) using advanced compression techniques.</description>
+    </item>
+    <item>
+      <title>GPUs is all you need</title>
+      <link>https://therealm4rtin.github.io/blog/posts/build-gpus-rack/gpus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/posts/build-gpus-rack/gpus/</guid>
+      <description>TL;DR I&amp;rsquo;m gpu-poor, this just theorie</description>
     </item>
   </channel>
 </rss>

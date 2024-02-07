@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>research on TheRealMartin&#39;s Blog</title>
-    <link>https://therealm4rtin.github.io/blog/categories/research/</link>
-    <description>Recent content in research on TheRealMartin&#39;s Blog</description>
+    <title>Papers on TheRealMartin&#39;s Blog</title>
+    <link>https://therealm4rtin.github.io/blog/tags/papers/</link>
+    <description>Recent content in Papers on TheRealMartin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://therealm4rtin.github.io/blog/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://therealm4rtin.github.io/blog/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLMs Compression | Literature Overview | Our work</title>
       <link>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</link>
