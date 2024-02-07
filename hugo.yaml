@@ -97,10 +97,10 @@ params:
     imageWidth: 140
     imageHeight: 129
     buttons:
-          - name: Posts
-            url: "/archive"
-          - name: Github
-            url: "https://github.com/"
+          - name: All my Posts
+            url: "posts"
+          # - name: Github
+          #   url: "https://github.com/"
 
 
   socialIcons:

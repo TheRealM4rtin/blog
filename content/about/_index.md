@@ -52,7 +52,7 @@ Here's a glimpse into my journey so far:
   ![img:b/acc](imback.png)
 
 
-## 🛠️ Tools
+## Some Tools
 
 - Visual Code
 - JetBrains
@@ -70,7 +70,7 @@ Here's a glimpse into my journey so far:
 
 - Huge sports enthusiast, currently at the gym
 - Guitar at Music Conservatory
-- Drone photography enthusiast
+- Drone photography
 - Avid reader
 
 ## Languages

@@ -2,7 +2,7 @@
 title: LLMs Compression | Literature Overview | Our work
 date: "2024-01-25"
 draft: false
-tags: ['paper', 'state-of-the-art', 'LLM']
+tags: ['Papers', 'State-of-The-Art', 'LLMs']
 categories: ['research']
 ---
 
