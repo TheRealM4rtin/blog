@@ -6,4 +6,4 @@ tags: ['GPUs', 'LLMs']
 categories: ['hardware']
 ---
 
-__*TL;DR*__ I'm gpu-poor, this just theorie
+__*TL;DR*__ I'm gpu-poor, this just theorie and ressources.

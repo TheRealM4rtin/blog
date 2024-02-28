@@ -99,8 +99,6 @@ params:
     buttons:
           - name: All my Posts
             url: "posts"
-          # - name: Github
-          #   url: "https://github.com/"
 
 
   socialIcons:
