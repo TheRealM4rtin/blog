@@ -6,8 +6,17 @@
     <description>Recent content in Papers on TheRealMartin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://therealm4rtin.github.io/blog/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechanistic Interpretability</title>
+      <link>https://therealm4rtin.github.io/blog/posts/mechinterp/mechinterp/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://therealm4rtin.github.io/blog/posts/mechinterp/mechinterp/</guid>
+      <description>&amp;ldquo;Mechanistic Interpretability is the study of reverse-engineering neural networks - analogous to how we might try to reverse-engineer a program’s source code from its compiled binary, our goal is to reverse engineer the parameters of a trained neural network, and to try to reverse engineer what algorithms and internal cognition the model is actually doing. Going from knowing that it works, to understanding how it works.&amp;rdquo;
+https://www.neelnanda.io/mechanistic-interpretability/quickstart
+An Introduciton to Circuits https://distill.</description>
+    </item>
     <item>
       <title>LLMs Compression | Literature Overview | Our work</title>
       <link>https://therealm4rtin.github.io/blog/posts/literature-overview/post-sota-llm/</link>
